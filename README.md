@@ -1,5 +1,4 @@
-# Autonomous Vehicle Trajectory Projection 
-# using partial Argoverse 2 Dataset
+# AV Trajectory Projection using partial Argoverse 2 Dataset
 
 Utilized advanced deep learning models and various different architectures in PyTorch for forecasting the trajectories and vehicle motion of a fleet of autonomous vehicles. 
 
